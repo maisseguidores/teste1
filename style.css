@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body, html{
+font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 15px;
+    height: 100vh;
+    width: 100vw; 
+    margin-bottom: 30px;
+}
+
+.div1{
+
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center; 
+}
+
+
+.div2{
+
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center; 
+}
+
+
+.div3{
+
+    position: absolute;
+    top: 92%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center; 
+}
+
+
+.div4{
+
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center;
+
+
+}
+
+
+.div5{
+
+    position: absolute;
+    top: 140%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center; 
+padding-bottom: 30px;
+    
+}
+
+
+.img1{
+    width: 200px;
+    
+}
+
+
+.img2{
+    width: 350px;
+    border: 2px solid blue;
+
+}
+
+
+.img3{
+    width: 350px;
+    
+    border: 2px solid red;
+}
+
+.img4{
+    width: 350px;
+    
+    border: 2px solid yellow;
+}
+
+p{
+
+    border: 2px solid green;
+
+    width: 350px;
+}
+
+
+.h31{
+    color: blue;
+}
+
+
+.h32{
+    color: red;
+}
+
+.h33{
+    color: yellow;
+}
+
+.h34{
+    color: green;
+    
+}
+
+
+button{
+    
+    width: 350px;
+    height: 40px;
+    border-color: BLUE;
+    color: red;
+    background-color: white;
+    
+
+}
+
